@@ -1,2 +1,2 @@
-# Salanga-fb-page
+# Salanga-fb-page-app
 Facebook Profile Page Project
